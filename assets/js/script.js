@@ -1,0 +1,1 @@
+"use strict";var btnMenu=document.querySelector(".menu-hamburger");function menuAtivo(){document.querySelector(".menu-header");document.querySelector(".secao-header").classList.toggle("menu-ativo")}btnMenu.addEventListener("click",menuAtivo);
